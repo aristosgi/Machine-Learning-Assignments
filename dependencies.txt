@@ -1,0 +1,31 @@
+# dependencies.txt
+
+# Install pandas
+pip install pandas
+
+# Install plotly
+pip install plotly
+
+# Install plotnine
+pip install plotnine
+
+# Install matplotlib
+pip install matplotlib
+
+# Install seaborn
+pip install seaborn
+
+# Install numpy
+pip install numpy
+
+# Install statsmodels
+pip install statsmodels
+
+# Install tqdm
+pip install tqdm
+
+# Install nltk
+pip install nltk
+
+# Install scikit-learn
+pip install scikit-learn
