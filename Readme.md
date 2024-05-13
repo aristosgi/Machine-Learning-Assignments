@@ -22,17 +22,17 @@ If you need to add or update dependencies, simply edit the `dependencies.txt` fi
 
 This repository contains assignments corresponding to specific research papers and datasets. Each assignment focuses on applying machine learning techniques to replicate and analyze studies from various fields. Below are the details of each assignment:
 
-### Assignment 1: Social Capital Studies Replication
+### Assignment 1: Economic Connectedness
 - **Paper**: Chetty, R., Jackson, M.O., Kuchler, T. et al. Social capital I: measurement and associations with economic mobility. [Nature 608, 108–121 (2022)](https://doi.org/10.1038/s41586-022-04996-4).
 - **Dataset**: Provided by the authors.
 - **Description**: This assignment aims to replicate and analyze the findings of the research paper on social capital and its associations with economic mobility. You will use the provided dataset to apply machine learning algorithms and techniques to explore the relationship between social capital and economic outcomes.
 
-### Assignment 2: International Sports Events & Repression
+### Assignment 2: International Sports Events: Window Dressing and Repression
 - **Paper**: Scharpf, A., Gläßel, C., Pearce, E. (2022) International Sports Events and Repression in Autocracies: Evidence from the 1978 FIFA World Cup, *American Political Science Review*, 1-18. [DOI: 10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)
 - **Dataset**: [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RJY34I)
 - **Description**: In this assignment, you will replicate and analyze the study on the relationship between repression in autocratic regimes and international sports events. Using the dataset from the Harvard Dataverse, you will apply machine learning techniques to explore the impact of international sports events on repression in autocracies.
 
-### Assignment 3: Disruptiveness in Science
+### Assignment 3: Is Science Becoming Less Disruptive?
 - **Paper**: [Nature: Is Science Becoming Less Disruptive?](https://www.nature.com/articles/s41586-022-05543-x)
 - **Discussion**: [The Economist](https://www.economist.com/science-and-technology/2023/01/04/papers-and-patents-are-becoming-less-disruptive), [The New York Times](https://www.nytimes.com/2023/01/17/science/science-breakthroughs-disruption.html), [The Atlantic](https://www.theatlantic.com/newsletters/archive/2023/01/academia-research-scientific-papers-progress/672694/)
 - **Editorial**: [Nature](https://www.nature.com/articles/d41586-023-00183-1)
